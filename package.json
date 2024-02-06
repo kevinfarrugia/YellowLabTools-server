@@ -37,7 +37,7 @@
     "q": "1.5.1",
     "rimraf": "2.6.3",
     "temporary": "0.0.8",
-    "yellowlabtools": "github:kevinfarrugia/YellowLabTools#branch-name"
+    "yellowlabtools": "github:kevinfarrugia/YellowLabTools#develop"
   },
   "devDependencies": {
     "chai": "~4.2.0",
